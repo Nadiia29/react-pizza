@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWBlgyLR8rIE-1CuHlw37LtT-PBkA7Y48bw&s",
+    "title": "Pepperoni pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 8,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://pizzabro.com.ua/image/cache/pizza/novspizi/pizza015-1000x1000.png",
+    "title": "Quarto Formaggio",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 9,
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://buccetis-web.s3.amazonaws.com/wp-content/uploads/2023/04/pizza-name-7.png",
+    "title": "Barbecue chicken",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 10,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://static.souspizza.com/sites/default/files/styles/product/public/field/image/picca-shashlyk_1_0_1.png?itok=pukw7vHY",
+    "title": "Sweet and sour chicken",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 10,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://php.ninjapizza.com.ua/images/16/l2x.webp?ver=v1.0.7",
+    "title": "Cheeseburger pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 10,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/38/2d/83/crazy-pepperoni-pizza.jpg",
+    "title": "Crazy pepperoni",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 9,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://instafood.com.ua/images/full_shop_product/instafood01637-5c98e98b70d49.png",
+    "title": "Bavarian pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 8,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93zj-Lw74CvH18cVI6Sh6FvjOuGMjCkOKbQ&s",
+    "title": "Margarita",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 9,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://starpizzacafe.com/upload/dish2022/pizza/4sezona.png",
+    "title": "Four seasons",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 8,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/052/349/184/non_2x/veggie-pizza-with-fresh-mushrooms-png.png",
+    "title": "Vegetables and mushrooms ",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 7,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://aleksandrsann.ks.ua/image/cache/catalog/pizza/updated/sicillian-500x500h.png",
+    "title": "Sicilian pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 8,
+    "category": 4,
+    "rating": 8
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://prontopizza.ua/kolomyja/wp-content/uploads/sites/8/2024/04/gavajska-500x500.webp",
+    "title": "Hawaiian pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 9,
+    "category": 5,
+    "rating": 7
+  }
+]

@@ -3,13 +3,29 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.13",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "ahooks": "^3.8.4",
+    "axios": "^1.8.3",
+    "clsx": "^2.1.1",
+    "lodash.debounce": "^4.0.8",
+    "qs": "^6.14.0",
     "react": "^19.0.0",
+    "react-content-loader": "^7.0.2",
     "react-dom": "^19.0.0",
+    "react-paginate": "^8.3.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.85.1",
+    "typescript": "^5.8.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +51,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/lodash.debounce": "^4.0.9"
   }
 }
