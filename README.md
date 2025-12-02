@@ -28,6 +28,7 @@ A sleek and modern frontend for a pizza ordering website built with **React**, *
 - **SCSS** — modular and nested styles
 - **Axios** — HTTP client for API calls
 
+mocApi address - https://mockapi.io/projects/67d0026e823da0212a8431da
 ---
 
 ## 🧩 Getting Started
