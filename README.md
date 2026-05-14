@@ -1,4 +1,5 @@
 # 🍕 Pizza 4 You
+🔗 **Live Demo** (https://nadiia29.github.io/react-pizza/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -22,11 +23,11 @@ A sleek and modern frontend for a pizza ordering website built with **React**, *
 
 ## 🛠️ Tech Stack
 
-- **React** — component-based UI library
-- **Redux Toolkit** — state management
-- **TypeScript** — static typing
-- **SCSS** — modular and nested styles
-- **Axios** — HTTP client for API calls
+- **React** - component-based UI library
+- **Redux Toolkit** - state management
+- **TypeScript** - static typing
+- **SCSS** - modular and nested styles
+- **Axios** - HTTP client for API calls
 
 ---
 
@@ -38,4 +39,4 @@ Clone the repository and run:
 npm install
 npm start
 ```
-🔗 **Live Demo** (https://nadiia29.github.io/react-pizza/)
+
