@@ -38,3 +38,4 @@ Clone the repository and run:
 npm install
 npm start
 ```
+🔗 **Live Demo** (https://nadiia29.github.io/react-pizza/)
